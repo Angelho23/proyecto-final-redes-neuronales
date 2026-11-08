@@ -104,7 +104,7 @@ proyecto-final-redes-neuronales/
 ├── README.md
 ├── Proyecto_Final_Redes_Neuronales_Angel_Mateo.ipynb
 ├── Informe_Final_Actividad_5_Unidad_3.pdf
-└── Informe_Final_Actividad_5_Unidad_3_Actualizado.tex
+
 ```
 
 ## Ejecución
